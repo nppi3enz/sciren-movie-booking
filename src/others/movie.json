@@ -1,0 +1,39 @@
+{
+    "movies": [
+        { "id": "mygirlfriend", "image": "mygirlfriend" },
+        { "id": "unhappy-birthday", "image": "unhappy-birthday" },
+        { "id": "untitled1", "image": "untitled" },
+        { "id": "untitled2", "image": "untitled" },
+        { "id": "untitled3", "image": "untitled" }
+    ],
+    "mygirlfriend": [
+        { "id":"A1", "seated":true, "price": 120 },
+        { "id":"A2", "seated":false, "price": 120 },
+        { "id":"A3", "seated":false, "price": 120 },
+        { "id":"A4", "seated":false, "price": 120 },
+        { "id":"A5", "seated":false, "price": 120 },
+        { "id":"A6", "seated":true, "price": 120 },
+        { "id":"B1", "seated":true, "price": 120 },
+        { "id":"B2", "seated":true, "price": 120 },
+        { "id":"B3", "seated":true, "price": 120 },
+        { "id":"B4", "seated":true, "price": 120 },
+        { "id":"B5", "seated":true, "price": 120 },
+        { "id":"B6", "seated":false, "price": 120 }
+    ],
+    "unhappy-birthday": [
+        { "id":"VIP1", "seated":false, "price": 500 },
+        { "id":"VIP2", "seated":true, "price": 500 },
+        { "id":"A1", "seated":false, "price": 120 },
+        { "id":"A2", "seated":true, "price": 120 },
+        { "id":"A3", "seated":true, "price": 120 },
+        { "id":"A4", "seated":false, "price": 120 },
+        { "id":"A5", "seated":false, "price": 120 },
+        { "id":"A6", "seated":true, "price": 120 },
+        { "id":"B1", "seated":false, "price": 120 },
+        { "id":"B2", "seated":true, "price": 120 },
+        { "id":"B3", "seated":true, "price": 120 },
+        { "id":"B4", "seated":false, "price": 120 },
+        { "id":"B5", "seated":true, "price": 120 },
+        { "id":"B6", "seated":false, "price": 120 }
+    ]
+}
